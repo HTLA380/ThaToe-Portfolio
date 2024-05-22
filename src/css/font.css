@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Eingrantch Mono';
+  font-weight: 200;
+  src: url('/assets/fonts/eingrantch-mono-light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Eingrantch Mono';
+  font-weight: 400;
+  src: url('/assets/fonts/eingrantch-mono-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Eingrantch Mono';
+  font-weight: 500;
+  src: url('/assets/fonts/eingrantch-mono-medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Eingrantch Mono';
+  font-weight: 600;
+  src: url('/assets/fonts/eingrantch-mono-semi-bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Eingrantch Mono';
+  font-weight: 700;
+  src: url('/assets/fonts/eingrantch-mono-bold.ttf') format('truetype');
+}

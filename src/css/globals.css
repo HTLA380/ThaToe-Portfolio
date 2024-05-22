@@ -1,0 +1,17 @@
+@import url('./font.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* navbar color - var(255, 255, 255, 0.85) */
+/* navbar text color - #000  xxx active color -  #a5d3d0  hover-color #f0eb97*/
+
+* {
+  font-family: 'Eingrantch Mono';
+}
+
+body {
+  @apply text-lg font-medium;
+  letter-spacing: -0.07em;
+}
