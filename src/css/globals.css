@@ -15,3 +15,8 @@ body {
   @apply text-lg font-medium;
   letter-spacing: -0.07em;
 }
+
+.bg-image {
+  background-image: url('/assets/images/bg-image.jpg');
+  width: 100%;
+}

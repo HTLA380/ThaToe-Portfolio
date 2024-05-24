@@ -20,12 +20,13 @@ const Navbar = () => {
   const pathname = usePathname();
 
   return (
-    <header className='h-138px w-full px-16 flex items-center justify-center bg-white_color/85'>
-      <div className='w-full max-w-4xl flex items-center justify-between'>
+    <header className='h-138px w-full px-16 flex items-center justify-center bg-white_color/90 absolute top-0 left-0 right-0'>
+      <div className='w-full max-w-800px flex items-center justify-between'>
         <Image
           className='ml-4'
           src={'/assets/images/logo.png'}
           width={170}
+          draggable={false}
           height={128}
           alt='art by tha-toe'
           priority={false}
