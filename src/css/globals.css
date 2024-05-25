@@ -14,9 +14,13 @@
 body {
   @apply text-lg font-medium;
   letter-spacing: -0.07em;
+  background-image: url('/assets/images/bg-image.jpg');
 }
 
 .bg-image {
-  background-image: url('/assets/images/bg-image.jpg');
   width: 100%;
+}
+
+.text_shadow_sm {
+  text-shadow: '0 1px 0 rgb(0 0 0 / 40%)';
 }

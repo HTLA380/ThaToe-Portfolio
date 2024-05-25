@@ -24,6 +24,7 @@ const config: Config = {
       },
       fontSize: {
         '17px': '1.0625rem',
+        '22px': '1.375rem',
       },
     },
   },
